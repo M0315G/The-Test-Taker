@@ -1,0 +1,75 @@
+#################################################################
+This is the master file of Chapter-Inheritance
+#################################################################
+Questions:-
+*****************************************************************
+Which inheritance in java programming is not supported?
+(A)Multiple inheritance using classes.
+(B)Multiple inheritance using interfaces.
+(C)Multilevel inheritance.
+(D)Single inheritance.
+Correct Answer-A
+*****************************************************************
+What is subclass in java?
+(A)B and C
+(B)A subclass is a class declared inside a class.
+(C)A subclass is a class that extends another class.
+(D)None of the above.
+Correct Answer-C
+*****************************************************************
+If class B is subclassed from class A then which is the correct syntax?
+(A)class B:A{}
+(B)class B extends A{}
+(C)class B extends class A{}
+(D)class B implements A{}
+Correct Answer-A
+*****************************************************************
+Order of execution of constructors in Java Inheritance is :
+(A)Random order.
+(B)Derived to base class.
+(C)Base to derived class.
+(D)None.
+Correct Answer-C
+*****************************************************************
+Which class cannot be sub classed?
+(A)object class.
+(B)final class.
+(C)abstract class.
+(D)child class.
+Correct Answer-B
+*****************************************************************
+Which cannot be inherited from a base class in Java programming?
+(A)Constructor
+(B)final method
+(C)Both
+(D)None
+Correct Answer-A
+*****************************************************************
+To prevent a class to be inherited / extended, the class should be
+(A)abstract class
+(B)final class
+(C)final and abstract both
+(D)none
+Correct Answer-B
+*****************************************************************
+ In which java oops feature one object can acquire all the properties and behaviours of the parent object?
+(A)Encapsulation
+(B)Inheritance
+(C)Polymorphism
+(D)None of the above
+Correct Answer-B
+*****************************************************************
+Java inheritance is used
+(A)for code re-usability
+(B)to achieve runtime polymorphism
+(C)Both of the above
+(D)None
+Correct Answer-C
+*****************************************************************
+Which is a false statement?
+(A)final class cannot be inherited
+(B)final method can be inherited
+(C)final method can be overridden
+(D)final variable of a class cannot be changed.
+Correct Answer-C
+*****************************************************************

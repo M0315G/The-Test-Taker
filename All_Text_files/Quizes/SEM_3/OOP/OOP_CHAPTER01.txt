@@ -1,0 +1,83 @@
+#################################################################
+This is the master file of Chapter-Abstraction
+#################################################################
+Questions:-
+*****************************************************************
+Can abstract class have main() function defined inside it?
+(A)Yes, depending on return type of main()
+(B)Yes, always
+(C)No, main must not be defined inside abstract class
+(D)No, because main() is not abstract function
+Correct Answer-B
+*****************************************************************
+If there is an abstract method in a class then, ________________
+(A)Class must be abstract class
+(B)Class may or may not be abstract class
+(C)Class is generic
+(D)Class must be public
+Correct Answer-A
+*****************************************************************
+Abstract classes can ____________________ instances.
+(A)Never have
+(B)Always have
+(C)Have array of
+(D)Have pointer of
+Correct Answer-A
+*****************************************************************
+Which among the following is an important use of abstract classes?
+(A)Header files
+(B)Class Libraries
+(C)Class definitions
+(D)Class inheritance
+Correct Answer-B
+*****************************************************************
+The abstract classes in java _________________
+(A)CanImplement constructors
+(B)Can’t implement constructor
+(C)Can implement only unimplemented methods
+(D)Can’t implement any type of constructor
+Correct Answer-A
+*****************************************************************
+Can abstract classes have static methods (Java)?
+(A)Yes, always
+(B)Yes, but depends on code
+(C)No, never
+(D)No, static members can’t have different values
+Correct Answer-A
+*****************************************************************
+Is it necessary that all the abstract methods must be defined from an abstract class?
+(A)Yes, depending on code
+(B)Yes, always
+(C)No, never
+(D)No, if function is not used, no definition is required
+Correct Answer-B
+*****************************************************************
+How many abstract classes can a single program contain?
+(A)At most 1
+(B)At least 1
+(C)At most 127
+(D)As many as required
+Correct Answer-D
+*****************************************************************
+It is _________________________ to have an abstract method.
+(A)Not mandatory for an static class
+(B)Not mandatory for a derived class
+(C)Not mandatory for an abstract class
+(D)Not mandatory for parent class
+Correct Answer-C
+*****************************************************************
+Which among the following best describes abstract classes?
+(A)If a class has more than one virtual function, it’s abstract class
+(B)If a class have only one pure virtual function, it’s abstract class
+(C)If a class has at least one pure virtual function, it’s abstract class
+(D)If a class has all the pure virtual functions only, then it’s abstract class
+Correct Answer-C
+*****************************************************************
+
+This is a test question
+(A)ans1
+(B)ans2
+(c)ans3
+(D)ans4
+Correct option:-e
+*****************************************************************

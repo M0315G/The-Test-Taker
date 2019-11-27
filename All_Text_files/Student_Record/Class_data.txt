@@ -1,0 +1,29 @@
+##########################################################
+This is the master file of Individual Class- 3CE(A) Batch-2018
+##########################################################
+Names of Students in the Class:-
+**********************************************************
+Abhinav
+18BCE001
+--------------
+Samyank
+18BCE002
+--------------
+Vaibhav
+18BCE003
+--------------
+Gaurav Bhambhani
+18BCE072
+--------------
+Manish Gupta
+18BCE075
+--------------
+ami sjcc
+18BCE035
+--------------
+Ishan Tewari
+18BCE080
+--------------
+Ishika Shah
+18BCE081
+--------------

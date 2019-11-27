@@ -1,0 +1,26 @@
+#################################################################
+This is the master file of Chapter-Introduction to Java
+#################################################################
+Questions:-
+*****************************************************************
+Which data types does java support?
+(A)Integer
+(B)Float
+(C)Long
+(D)All of these
+Correct Answer-D
+*****************************************************************
+What concept/s does java supports?
+(A)Pointers
+(B)Classes
+(C)
+(D)
+Correct Answer-B
+*****************************************************************
+Which of the following is not a Sequential Circuit?
+(A)Adder
+(B)Substractor
+(c)Rom
+(D)look ahead carry generator
+Correct option:-D
+*****************************************************************

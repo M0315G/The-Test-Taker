@@ -1,0 +1,75 @@
+#################################################################
+This is the master file of Chapter-Packages And Interfaces
+#################################################################
+Questions:-
+*****************************************************************
+Which of these keywords is used to define packages in Java?
+(A)pkg
+(B)Pkg
+(C)package
+(D)Package
+Correct Answer-C
+*****************************************************************
+Which of these is a mechanism for naming and visibility control of a class and its content?
+(A)Object
+(B)Packages
+(C)Interfaces
+(D)None of the Mentioned.
+Correct Answer-B
+*****************************************************************
+Which of this access specifies can be used for a class so that its members can be accessed by a different class in the same package?
+(A)Public
+(B)Protected
+(C)No Modifier
+(D)All of the mentioned
+Correct Answer-D
+*****************************************************************
+Which of these access specifiers can be used for a class so that its members can be accessed by a different class in the different package?
+(A)Public
+(B)Protected
+(C)Private
+(D)No Modifier
+Correct Answer-A
+*****************************************************************
+Which of the following is an incorrect statement about packages?
+(A)Package defines a namespace in which classes are stored
+(B)A package can contain other package within it
+(C)Java uses file system directories to store packages
+(D)A package can be renamed without renaming the directory in which the classes are stored
+Correct Answer-D
+*****************************************************************
+Which of the following package stores all the standard java classes?
+(A)lang
+(B)java
+(C)util
+(D)java.packages
+Correct Answer-B
+*****************************************************************
+Which of these keywords is used to define interfaces in Java?
+(A)interface
+(B)Interface
+(C)intf
+(D)Intf
+Correct Answer-A
+*****************************************************************
+Which of these can be used to fully abstract a class from its implementation?
+(A)Objects
+(B)Packages
+(C)Interfaces
+(D)None of the Mentioned
+Correct Answer-C
+*****************************************************************
+Which of these access specifiers can be used for an interface?
+(A)Public
+(B)Protected
+(C)private
+(D)All of the mentioned
+Correct Answer-A
+*****************************************************************
+Which of these keywords is used by a class to use an interface defined previously?
+(A)import
+(B)Import
+(C)implements
+(D)Implements
+Correct Answer-C
+*****************************************************************

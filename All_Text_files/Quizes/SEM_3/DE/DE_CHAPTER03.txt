@@ -1,0 +1,19 @@
+#################################################################
+This is the master file of Chapter-Introduction to Java
+#################################################################
+Questions:-
+*****************************************************************
+Which data types does java support?
+(A)Integer
+(B)Float
+(C)Long
+(D)All of these
+Correct Answer-D
+*****************************************************************
+What concept/s does java supports?
+(A)Pointers
+(B)Classes
+(C)
+(D)
+Correct Answer-B
+*****************************************************************

@@ -1,0 +1,77 @@
+#################################################################
+This is the master file of Chapter-Exception Handling
+#################################################################
+Questions:-
+*****************************************************************
+When does Exceptions in Java arises in code sequence?
+(A)Run Time
+(B)Compilation Time
+(C)Can Occur Any Time
+(D)None of the mentioned
+Correct Answer-A
+*****************************************************************
+Which of these keywords is not a part of exception handling?
+(A)thrown
+(B)finally
+(C)try
+(D)catch
+Correct Answer-C
+*****************************************************************
+Which of these keywords is used to manually throw an exception?
+(A)try
+(B)finally
+(C)catch
+(D)throw
+Correct Answer-D
+*****************************************************************
+ Which of these is a super class of all exceptional type classes?
+(A)String
+(B)Runtime Exceptions
+(C)Throwable
+(D)Cachable
+Correct Answer-C
+*****************************************************************
+Which of these class is related to all the exceptions that can be caught by using catch?
+(A)Error
+(B)Exception
+(C)RuntimeExecption
+(D)All of the mentioned
+Correct Answer-B
+*****************************************************************
+ Which of these handles the exception when no catch is used?
+(A)Default handler
+(B)finally
+(C)throw handler
+(D)Java run time system
+Correct Answer-A
+*****************************************************************
+ Which of these keywords is used to generate an exception explicitly?
+A. try
+B. finally
+C. throw
+D. catch
+Correct Answer-C
+*****************************************************************
+
+Which of these class is related to all the exceptions that are explicitly thrown?
+(A)Error
+(B)Exception
+(C)Throwable
+(D)Throw
+Correct Answer-C
+*****************************************************************
+
+Which of these keywords is used to by the calling function to guard against the exception that is thrown by called function?
+(A)try
+(B)throw
+(C)throws
+(D)catch
+Correct Answer-C
+*****************************************************************
+ Which of these handles the exception when no catch is used?
+(A)Default handler
+(B)finally
+(C)throw handler
+(D)Java run time system
+Correct Answer-A
+*****************************************************************
